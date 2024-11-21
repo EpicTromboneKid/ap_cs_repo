@@ -20,7 +20,7 @@ public class IndexEntry
         return this.word;  // Fix this!!
     }
 
-    // If num is not already in the list, adds num
+    // If num is not already in the list , adds num
     // at the end of this IndexEntry's list
     // of numbers.
     public void add(int num)
